@@ -2,6 +2,8 @@
 
 This project is a Next.js application that combines Builder.io for page structure and components with Directus CMS for content management. It implements a hybrid approach where page layouts and components are managed through Builder.io, while the actual content data is fetched from Directus CMS based on the current locale and route.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/artabr/builderio-next-starter)
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org) v15.3.2 - React framework for production
