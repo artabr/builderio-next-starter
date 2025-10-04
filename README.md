@@ -1,4 +1,4 @@
-# Tend Habit tracker Website
+# Builder.io Next.js starter
 
 This project is a Next.js application that combines Builder.io for page structure and components with Directus CMS for content management. It implements a hybrid approach where page layouts and components are managed through Builder.io, while the actual content data is fetched from Directus CMS based on the current locale and route.
 
@@ -87,7 +87,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Useful Links
 
 - [Builder.io Dashboard](https://builder.io/content)
-- [Directus CMS Dashboard](https://directus.tend-app.ru/admin)
 
 ## Learn More
 
